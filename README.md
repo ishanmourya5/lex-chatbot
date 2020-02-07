@@ -7,10 +7,10 @@ Please visit "https://versatil.me/season_detail/chatbot-development-using-aws-le
 
 **Final output** of the project will be like - 
 
-Chat-bot when **minimized - **
+Chat-bot when **minimized -**
 
 ![GitHub Logo](/images/Chatbot_Minimised.png)
 
-Chatbot when **maximized - **
+Chatbot when **maximized -**
 
 ![GitHub Logo](/images/Chatbot_Maximised.png)
